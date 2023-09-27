@@ -23,3 +23,11 @@ Open the source file.
 
 Then build DLL.
 ![Image 2](/images/buildDll.png)
+
+## Notes
+To delete the custom keyboard layout you need to delete the folder **US-intl.dll** from windows file systems.
+Then we need to remove the registry:
+- WIN + r
+- regedit (as administrator)
+- HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Keyboard Layouts
+- delete the values of the custom keyboard (usually at the end of the list)
