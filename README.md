@@ -1,15 +1,4 @@
-# custom-keyboard-layout
-
-## Tables of Contents
-<!--ts-->
-    - [Introduction](#introduction)
-    - [Mappings](#mappings)
-    - [Installation](#installation)
-        -[Windows](#windows)
-            -[Notes](#notes)
-    -[Credits](#credits)
-    -[TODO](#todo)
-<!--te-->
+# Custom-keyboard-layout
 
 ## Introduction
 I was trying to create a custom keyboard layout for both Linux and Windows based on the USA international layout. However, I encountered a particular challenge with this layout some time ago—it didn't offer a straightforward method for typing vowels with accents. Fortunately, I discovered a useful layout on Linux known as "USA international with dead keys," which was able to address this issue.
